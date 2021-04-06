@@ -5,9 +5,13 @@
     margin-bottom: 5px;
     padding-bottom: 5px;
 }
-.product-name{
+.product-name h4{
     color: blue;
     font-weight: 400;
+    margin-left: 20px;
+}
+.product-name p{
+    margin-left: 20px;
 }
 .main-button{
     background-color: gold;
@@ -16,4 +20,5 @@
     height: 30px;
     border: 1px solid gray;
     cursor: pointer;
+    margin-left: 20px;
 }
